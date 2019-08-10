@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524143345106",
+    "firebase_url": "https://canvas-diagram-248716.firebaseio.com",
+    "project_id": "canvas-diagram-248716",
+    "storage_bucket": "canvas-diagram-248716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524143345106:android:6a6352d2f44775ea",
+        "android_client_info": {
+          "package_name": "org.pune.cloud.gdg.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524143345106-0khk5pln6rc0kb2cdkfq1491lg464j38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNN3mxVZiocCr-9-H6RfGb93U94bKWJn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524143345106-0khk5pln6rc0kb2cdkfq1491lg464j38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
